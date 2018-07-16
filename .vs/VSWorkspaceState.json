@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\efs",
+    "\\portfolio",
+    "\\portfolio\\static\\css",
+    "\\portfolio\\static\\images",
+    "\\portfolio\\templates",
+    "\\portfolio\\templates\\portfolio",
+    "\\portfolio\\templates\\registration"
+  ],
+  "SelectedNode": "\\portfolio\\views.py",
+  "PreviewInSolutionExplorer": false
+}
